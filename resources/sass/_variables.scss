@@ -1,0 +1,67 @@
+
+// Body
+$body-bg: #f8fafc;
+
+
+// Typography
+$font-family-sans-serif:'Karla', sans-serif;
+//$font-size-base: 0.9rem;
+//$line-height-base: 1.6;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66D9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+
+.black{
+    color:black;
+}
+.white{
+    color:white;
+}
+
+.blue{
+    color:$blue;
+}
+.green{
+    color:$green;
+}
+.red{
+    color:$red;
+}
+.orange{
+    color:$orange;
+}
+.purple{
+    color:$purple;
+}
+.yellow{
+    color:$yellow;
+}
+.badge-title{
+    color:#303642;
+    font-weight:100;
+}
+.back-blue{
+    background-color:#0A87D7!important
+}
+.back-deepskyblue{
+    background-color:deepskyblue!important
+}
+.back-limegreen{
+    background-color:limegreen!important
+}
+.back-orange{
+    background-color:orange!important
+}
+.card-blur{
+  background-color: rgba(245, 245, 245, 0.4); 
+  opacity: .7
+}
