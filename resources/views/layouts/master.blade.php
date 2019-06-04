@@ -232,17 +232,13 @@
   </div>
   <!-- /.content-wrapper --> 
 
-  <!-- Main Footer -->
   <footer class="main-footer">
-    <!-- To the right -->
-    <div class="float-right d-none d-sm-inline">
+    <div class="float-center d-none d-sm-inline">
       <strong>Developed by : Danial Wafiy </strong>
     </div>
-    <!-- Default to the left -->
-    <strong>Copyright &copy; <a>Faculty Science Computer & Information Technology - UTHM</a>.</strong>
   </footer>
-</div>
-<!-- ./wrapper -->
+  
+</div><!-- ./wrapper -->
 
 <!-- REQUIRED SCRIPTS -->
 
