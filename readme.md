@@ -29,8 +29,6 @@ Supervisor -> id:sv123,password 1234
 
 ## Screenshots
 <p>
-<img src="public/img/1.JPG" width="400" height="auto">
-    &nbsp  &nbsp  &nbsp  &nbsp
-<img src="public/img/2.JPG" width="400" height="auto">
+<img src="public/img/firm.png" width="400" height="auto">
 </p>
 
